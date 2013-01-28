@@ -1,3 +1,6 @@
+xcuserdata
+.idea
+*.xcuserdatad
 CocoaDeferred/build/**
 *.pbxuser
 *.perspectivev3
