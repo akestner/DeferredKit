@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "DeferredKit"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "Asynchronous programming library for cocoa and cocoa touch."
   s.homepage     = "https://github.com/akestner/DeferredKit"
 
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   #   LICENSE
   # }
   s.author       = { "Alex Kestner" => "alex.kestner@gmail.com" }
-  s.source       = { :git => "https://github.com/akestner/DeferredKit.git", :commit => "c72712a6b87b65ecd6264059b36d6a1ab9ca651c" }
+  s.source       = { :git => "https://github.com/akestner/DeferredKit.git", :tag => '0.0.3' }
   s.platform     = :ios
 
   # ――― MULTI-PLATFORM VALUES ――――――――――――――――――――――――――――――――――――――――――――――――― #
